@@ -1,0 +1,17 @@
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\bin\Debug\net8.0-windows\WinFormShapes.exe
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\bin\Debug\net8.0-windows\WinFormShapes.deps.json
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\bin\Debug\net8.0-windows\WinFormShapes.runtimeconfig.json
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\bin\Debug\net8.0-windows\WinFormShapes.dll
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\bin\Debug\net8.0-windows\WinFormShapes.pdb
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.csproj.GenerateResource.cache
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.AssemblyInfoInputs.cache
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.AssemblyInfo.cs
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.csproj.CoreCompileInputs.cache
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.dll
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\refint\WinFormShapes.dll
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.pdb
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.genruntimeconfig.cache
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\ref\WinFormShapes.dll
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.Properties.Resources.resources
+C:\Users\malev\source\repos\WinFormShapesApp\WinFormShapes\obj\Debug\net8.0-windows\WinFormShapes.Version2.resources
